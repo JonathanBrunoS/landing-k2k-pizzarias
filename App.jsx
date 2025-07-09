@@ -3,6 +3,7 @@ import { Button } from '@/components/ui/button.jsx'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card.jsx'
 import { Badge } from '@/components/ui/badge.jsx'
 import { Separator } from '@/components/ui/separator.jsx'
+import React from 'react';
 import {
   Pizza,
   TrendingUp,
